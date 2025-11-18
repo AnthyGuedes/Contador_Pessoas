@@ -31,5 +31,5 @@ Saída-> O valor atualizado do contador é constantemente convertido e exibido n
 <img width="1286" height="592" alt="SIMULATION VIVADO " src="https://github.com/user-attachments/assets/4f8313cd-067f-4d9f-af4c-e61082d38ac2" />
 
 
-## Cloncusão 
+## Conclusão
 Este projeto permitiu a aplicação prática da implementação de uma **Máquina de Estados Finitos (FSM)** em VHDL para controlar um sistema sequencial. Alguns pontos interessantes são a integração do contador binário com a lógica de proteção, garantir que a FSM passasse corretamente pelos estados de **Espera (`AGUARDA`)** para evitar **contagens duplicadas**, uma etapa importante na durante o projeto.
