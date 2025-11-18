@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/guede/Downloads/contador_pessoas/contador_pessoas.srcs/sources_1/new/contador_pessoas.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity contador_pessoas
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/guede/Downloads/contador_pessoas/contador_pessoas.srcs/sim_1/new/contador_pessoas_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity contador_pessoas_tb
