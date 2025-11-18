@@ -28,6 +28,7 @@ Saída-> O valor atualizado do contador é constantemente convertido e exibido n
 
 ## |Prints das Simulações|
 
+<img width="1286" height="592" alt="SIMULATION VIVADO " src="https://github.com/user-attachments/assets/4f8313cd-067f-4d9f-af4c-e61082d38ac2" />
 
 
 ## Cloncusão 
