@@ -9,17 +9,8 @@ Anthony da Silva Guedes
 
 O objetivo principal deste circuito é desenvolver, com linguagem VHDL no ambiente Vivado , um Mini Controlador Digital para simular um Contador de Pessoas (Entrada e Saída). O sistema utiliza sinais de sensores para determinar se a contagem deve ser incrementada ou decrementada. O projeto aplica os conceitos de Flip-flops e Contadores Binários para armazenamento e manipulação do valor, e uma Máquina de Estados Finitos (FSM) para gerenciar a lógica de passagem e garantir que cada pessoa seja contada apenas uma vez. A contagem final é exibida de forma decodificada.
 
-Diagrama de Estados / Descrição da FSM
+## Diagrama de Estados 
 
-Insira aqui o diagrama de estados. Caso não seja possível inserir a imagem, descreva cada estado e as transições.
-
-Exemplo de descrição:
-
-Estado 1 – OCIOSO: descrição...
-
-Estado 2 – Entrada detectada: descrição...
-
-Estado 3 – Saída detectada: descrição...
 
 ## Fluxo de Operação
 
@@ -37,8 +28,7 @@ Saída-> O valor atualizado do contador é constantemente convertido e exibido n
 
 ## |Prints das Simulações|
 
-Insira aqui as imagens das simulações.
-Descreva o que cada simulação demonstra e como ela comprova o funcionamento.
+
 
 ## Cloncusão 
 Este projeto permitiu a aplicação prática da implementação de uma **Máquina de Estados Finitos (FSM)** em VHDL para controlar um sistema sequencial. Alguns pontos interessantes são a integração do contador binário com a lógica de proteção, garantir que a FSM passasse corretamente pelos estados de **Espera (`AGUARDA`)** para evitar **contagens duplicadas**, uma etapa importante na durante o projeto.
