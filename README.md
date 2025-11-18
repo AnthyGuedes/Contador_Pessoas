@@ -8,7 +8,8 @@ Arthur de Souza Spironello e Anthony da Silva Guedes
 O objetivo principal deste circuito é desenvolver, com linguagem VHDL no ambiente Vivado , um Mini Controlador Digital para simular um Contador de Pessoas (Entrada e Saída). O sistema utiliza sinais de sensores para determinar se a contagem deve ser incrementada ou decrementada. O projeto aplica os conceitos de Flip-flops e Contadores Binários para armazenamento e manipulação do valor, e uma Máquina de Estados Finitos (FSM) para gerenciar a lógica de passagem e garantir que cada pessoa seja contada apenas uma vez. A contagem final é exibida de forma decodificada.
 
 ## Diagrama de Estados 
-<img width="1286" height="592" alt="SIMULATION VIVADO " src="https://github.com/user-attachments/assets/330e1173-f573-4c13-a248-3b3ad775cd50" />
+<img width="899" height="431" alt="diagramaMQFSM" src="https://github.com/user-attachments/assets/768906db-a22f-47ab-8dc4-6c76938cf27d" />
+
 
 
 ## Fluxo de Operação
