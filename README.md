@@ -1,9 +1,7 @@
 # Contador_Pessoas
 
 ## Integrantes
-
-Arthur de Souza Spironello 
-Anthony da Silva Guedes
+Arthur de Souza Spironello e Anthony da Silva Guedes
 
 ## Objetivo do Circuito
 
